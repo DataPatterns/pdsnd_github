@@ -15,8 +15,11 @@ In this project, we do the following:
 5. Submit the project documentation for review
 
 ### Files used
-Include the files used
+.gitingore - all the files to be ignored while commiting to remote repo
+.README.me  - readme file with project details
+bikeshare2.py - python file used for bike sharing data analysis
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+guidelines for git: https://chris.beams.io/posts/git-commit/
 
