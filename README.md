@@ -21,7 +21,11 @@ bikeshare2.py - python file used for bike sharing data analysis
 
 
 ### Credits
-guidelines for git: https://chris.beams.io/posts/git-commit/
+guidelines for git:
+https://chris.beams.io/posts/git-commit/
+https://udacity.github.io/git-styleguide/
+
 
 ### Author
 Saikumar Allaka
+
