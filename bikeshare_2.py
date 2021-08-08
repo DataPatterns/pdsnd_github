@@ -28,11 +28,10 @@ DAY_NO = {
 }
 DAY_NAMES = {v: k for k, v in DAY_NO.items()
 
-def data_cleaning():
-    pass}
 
-def data_processing():
+def data_cleaning():
     pass
+
 
 def get_filters():
     """
