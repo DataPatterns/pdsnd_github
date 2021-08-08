@@ -33,6 +33,9 @@ def data_cleaning():
     pass
 
 
+def data_processing():
+    pass
+    
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
